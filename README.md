@@ -17,7 +17,7 @@ In data preprocessing, missing values are replaced with the median of the respec
 While using the elbow method to find the best number of clusters (k), I noticed some uncertainty at k equals 3 and k equals 6. I decided on k equals 6 to make the clusters more detailed and specific. This choice helps improve cluster analysis, considering the complexities in the data, compared to the alternative k value of 3.
 
 # Evaluation
-This is an interactive result of the clustering model. You can drag the mouse over the dots, and it will show the cluster of each dot. Principal Component Analysis (PCA) is used to reduce the dimensionality of the dataset. Originally, the dataset has 8 variables, which are reduced using PCA to create a 2D visualization.
+The interactive result of the clustering modelis available on the ipynb. You can drag the mouse over the dots, and it will show the cluster of each dot. Principal Component Analysis (PCA) is used to reduce the dimensionality of the dataset. Originally, the dataset has 8 variables, which are reduced using PCA to create a 2D visualization.
 
 # PERSONA ANALYSIS
 Cluster 0: Urban populations in developing countries where they face some nutrition issues but not extreme.
