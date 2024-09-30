@@ -1,9 +1,6 @@
 # Clustering-Countries
 Malnutrition is a complex issue. Using Unsupervised Learning and clustering techniques in machine learning helps identify patterns in nutritional data, making strategies more targeted and efficient.
 
-# Data Explanation
-Malnutrition is a complex issue. Using Unsupervised Learning and clustering techniques in machine learning helps identify patterns in nutritional data, making strategies more targeted and efficient.
-
 # Data Description
 8 variables: Country, Income Classification, Severe Wasting, Wasting, Underweight, Overweight, Stunting, and Under 5 y/o Population.
 
